@@ -1,3 +1,3 @@
 # Pearson-Correlation-Coefficient
-This contains matlab code for computing pearson correlation coefficient for give data set
+This branch contains matlab code for computing pearson correlation coefficient for given data set
 https://archive.ics.uci.edu/ml/datasets/SkillCraft1+Master+Table+Dataset
